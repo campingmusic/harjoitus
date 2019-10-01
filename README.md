@@ -1,7 +1,7 @@
 **terve**
 [link to rantajatsit!](https://rantajatsit.fi)
 
-# Fulstack Open
+# Fullstack Open
 ## Tehtävät
  * [Laskarit](/laskarit)
 	* [viikko 1](laskarit/viikko1)
