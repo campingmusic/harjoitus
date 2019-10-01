@@ -1,10 +1,10 @@
 **terve**
 [link to rantajatsit!](https://rantajatsit.fi)
 
-# otsikko
+# Harjoituksia
 ## alaotsikko
 *italic*
- * item 
+ * [Laskarit](/laskarit)
 * item
 	* item
 	* item
